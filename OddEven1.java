@@ -11,5 +11,6 @@ public class oddEven1 {
         System.out.println("Enter a Number: ");
         int n= sc.nextInt();
         System.out.println(n%2==0? "The given no is EVEN":"The given no is ODD");
+        sc.close();
     }
 }
