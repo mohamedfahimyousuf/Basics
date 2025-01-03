@@ -7,6 +7,6 @@ public class InrToUsd {
         System.out.print("Enter the INR amount: ");
         int inr = scanner.nextInt();
         double con = inr/usd;
-        System.out.printf("USD : %.2f $", con); 
+        System.out.printf("USD : %.2f $",con); 
     }
 }
