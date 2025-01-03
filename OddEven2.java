@@ -5,7 +5,7 @@
 import java.io.*;
 import java.util.*;
 
-public class oddEven2 {
+public class OddEven2 {
     public static void main(String[]args){
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter a Number: ");
