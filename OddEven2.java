@@ -2,7 +2,6 @@
 
 //Using If Else 
 
-import java.io.*;
 import java.util.*;
 
 public class OddEven2 {
