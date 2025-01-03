@@ -2,7 +2,7 @@
 
 //Using Ternary Operator
 
-import java.io.*;
+
 import java.util.*;
 
 public class OddEven1{
