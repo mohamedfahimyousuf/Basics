@@ -9,6 +9,6 @@ public class SimpleInterest {
         System.out.print("Enter Rate: ");
         int r = scanner.nextInt();
         int si = (p*r*t)/100;
-        System.out.print("Simple Interest: "+ si);
+        System.out.print("Simple Interest : "+ si);
     }
 }
