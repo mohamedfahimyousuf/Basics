@@ -7,7 +7,7 @@ public class Value {
         System.out.print("Enter num 2: ");
         int num2 = scanner.nextInt();
         scanner.nextLine();
-        System.out.print("Enter operation: ");
+        System.out.print("Enter operation : ");
         String opr = scanner.nextLine();
         int val = 0;
         if(opr.equals("+")){
